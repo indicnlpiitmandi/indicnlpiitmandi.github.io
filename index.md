@@ -13,13 +13,18 @@ The integration of consciousness studies and Large Language Models (LLMs) offers
 
 This session will cover a range of topics, including:
 
-+ The role of curiosity in intelligence: How intuitive decisions, emotional understanding, and cultural connections shape consciousness and drive transformative innovation.
-+ Advancing AI tools for consciousness studies: Exploring methodologies and techniques to integrate concepts of consciousness into AI development, such as Reinforcement Learning with Human Feedback (RLHF).
-+ Ethical challenges in AI development: Addressing the complexities of aligning AI systems with human values, including issues related to bias, transparency, and accountability.
-+ Bridging ancient wisdom with modern technologies: Connecting philosophical insights and cognitive practices with contemporary advancements in AI to foster cognitive wellness.
-+ Cultural and emotional nuances in LLMs: Understanding the limitations of current models and proposing frameworks to capture deeper human-like cognition.
-+ The future of intelligence studies in the era of Generative AI: Examining how LLMs and Natural Language Processing (NLP) tools are reshaping our approaches to intelligence research.
-+ Post-session, we aim to publish a white paper summarizing the key discussions and insights (with participant permissions). Additionally, we plan to create a community platform on Discord (or a similar space) to facilitate ongoing collaboration and knowledge-sharing among researchers and practitioners.
++ Examining curiosity as a fundamental aspect of conscious awareness and its impact on intelligence and learning in LLM's. 
++ Investigating how intuitive decisions, emotional understanding, and cultural connections influence the development of conscious-like behaviors in LLM systems. 
++ Modeling curiosity-driven problem-solving in AI to enable systems that emulate human-like curiosity and adaptability.
++ Exploring novel methodologies to integrate consciousness concepts into AI, such as Reinforcement Learning with Human Feedback (RLHF) and attention mechanisms inspired by cognitive neuroscience. 
++ Using LLMs and neural-symbolic approaches to model self-awareness, reflection, and meta-cognition. 
++ Leveraging AI tools to simulate and analyze states of consciousness, enabling interdisciplinary studies at the interface of neuroscience, philosophy, and AI.
++ Highlighting the limitations of current AI models in capturing the depth of human cultural, emotional, and cognitive diversity. 
++ Proposing innovative frameworks to enable LLMs to better model nuanced emotional states, cross-cultural perspectives, and symbolic reasoning tied to consciousness. 
++ Incorporating consciousness-aware feedback mechanisms to enhance the authenticity of human-AI interactions.
++ Examining how LLMs and NLP tools are reshaping our understanding of intelligence and consciousness in humans and machines. 
++ Envisioning the role of generative AI in advancing studies on self-awareness, meta-awareness, and cognitive processes. 
++ Investigating how AI systems can evolve beyond static reasoning models to embrace dynamic, consciousness-inspired frameworks for problem-solving and adaptation.
 
 We invite submissions of extended abstracts and full papers on the themes of this session and look forward to engaging with a vibrant community of scholars and innovators at MBCC 2025. Together, let us redefine the boundaries of intelligence and consciousness!
 
@@ -76,20 +81,14 @@ Contact the organizers at **[rohit@iitmandi.ac.in](mailto:rohit@iitmandi.ac.in)*
 
 We welcome contributions on topics including, but not limited to:
 
-+ Advancing AI for Consciousness Studies
-+ Novel methodologies for integrating consciousness concepts into AI models, including techniques such as Reinforcement Learning with Human Feedback (RLHF).
-+ The Role of Curiosity in Intelligence
-+ Investigations into how curiosity drives intuitive decisions, emotional understanding, and cultural connections in human and artificial cognition.
-+ Ethical Challenges in AI Development
-+ Addressing the ethical complexities in aligning LLMs with human values, mitigating bias, and ensuring transparency and accountability.
-+ Bridging Ancient Wisdom with Modern Technologies
-+ Interdisciplinary approaches that connect ancient philosophical insights and practices with contemporary AI advancements.
-+ Cultural and Emotional Nuances in AI
-+ Datsets and Benchmarks to study conciousness in LLM's and its allied areas 
-+ Exploring how LLMs can better simulate human cognition by incorporating cultural, emotional, and contextual understanding.
-+ Responsible AI for Generative Models
-+ Frameworks for developing responsible datasets, addressing privacy concerns, and improving transparency for AI systems.
-+ Intelligence Studies in the Generative AI Era
-+ Theoretical and practical implications of using LLMs and NLP tools to reshape how we study intelligence.
++ Exploring methodologies to integrate consciousness principles into large language models, enhancing self-awareness and reflective reasoning.
++ Incorporating novel techniques, such as RLHF, to align LLMs with conscious cognition and introspection.
++ Investigating the role of curiosity in driving intuitive decisions, emotional understanding, and cultural adaptability in consciousness-enhanced LLMs.
++ Addressing ethical complexities in aligning consciousness-driven LLMs with human values, mitigating biases, and ensuring accountability.
++ Bridging philosophical insights from ancient traditions with modern advancements in LLM-based consciousness studies.
++ Developing datasets and benchmarks to study consciousness-driven cognition, emotional reasoning, and contextual understanding in LLMs.
++ Enabling LLMs to simulate human cognition by incorporating cultural, emotional, and contextual awareness into consciousness-inspired models.
++ Creating frameworks for privacy-preserving, transparent, and ethically aligned LLMs with a focus on conscious intelligence.
++ Investigating the implications of LLMs in redefining intelligence studies, emphasizing consciousness and cognitive synergies.
 
-Submit your extended abstracts through [OpenReview](https://openreview.net/group?id=thecvf.com/CVPR/2024/Workshop/Responsible_Data).
+Submit your extended abstracts through [Easy Chair](https://easychair.org/conferences/?conf=mbcc2025), in [MBCC format(https://iksmha.iitmandi.ac.in/mbcc/2025/#submission).
