@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Consciousness and LLMs - A Synergistic Approach to Intelligence
-description: C-LLMS @ MBCC 2025, June 4-7, 2025
+description: CLLMS @ MBCC 2025, June 4-7, 2025
 ---
 
-Welcome to our **Special Session on Consciousness and LLMs**!
+
 
 
 Welcome to our Special Session on "Consciousness and LLMs: A Synergistic Approach to Intelligence"!
@@ -59,88 +59,20 @@ His keynote will explore the synergy between AI advancements and consciousness s
 
 <figure>
     <a href="https://candiceschumann.com/">
-    <img class="img-author" src="assets/imgs/authors/cvpr2024/CandiceSchumann.jpeg" alt="Candice Schumann"/></a>
+    <img class="img-author" src="assets/imgs/rohit.jpg" alt="Rohit Saluja"/></a>
     <b><br><a href="https://candiceschumann.com/">Rohit Saluja</a>
     <br>Assistant Profesoor<br>Indian Institute of Technology</b>
 </figure>
 
-<figure>
-    <a href="https://hazirbas.com/">
-    <img class="img-author" src="assets/imgs/authors/cvpr2024/CanerHazirbas.jpeg" alt="Caner Hazirbas"/></a>
-    <b><br><a href="https://hazirbas.com/">Caner Hazirbas (He/Him)</a>
-    <br>Research Scientist<br>Meta AI</b>
-</figure>
 
-<figure>
-    <a href="https://www.cs.princeton.edu/~olgarus/">
-    <img class="img-author" src="assets/imgs/authors/cvpr2024/OlgaRussakovsky_highres.jpeg" alt="Olga Russakovsky"/></a>
-    <b><br><a href="https://www.cs.princeton.edu/~olgarus/">Olga Russakovsky (She/Her)</a>
-    <br>Associate Professor, CS  <br> Princeton</b>
-</figure>
-
-<figure>
-    <a href="https://www.cs.princeton.edu/~vr23/">
-    <img class="img-author" src="assets/imgs/authors/cvpr2024/VikramVRamaswamy.jpeg" alt="Vikram V. Ramaswamy"/></a>
-    <b><br><a href="https://www.cs.princeton.edu/~vr23/">Vikram V. Ramaswamy (He/They)</a>
-    <br>Lecturer, CS  <br> Princeton</b>
-</figure>
-
-<figure>
-    <a href="https://ai.sony/people/Jerone-Andrews/">
-    <img class="img-author" src="assets/imgs/authors/cvpr2024/JeroneAndrews.jpeg" alt="Jerone Andrews"/></a>
-    <b><br><a href="https://ai.sony/people/Jerone-Andrews/">Jerone Andrews (He/Him)</a>
-    <br>Research Scientist<br>Sony AI</b>
-</figure>
-
-<figure>
-    <a href="https://ai.sony/people/Alice-Xiang/">
-    <img class="img-author" src="assets/imgs/authors/cvpr2024/AliceXiang.jpeg" alt="Alice Xiang"/></a>
-    <b><br><a href="https://ai.sony/people/Alice-Xiang/">Alice Xiang (She/Her)</a>
-    <br>Global Head of AI Ethics<br>Sony AI</b>
-</figure>
-
-<figure>
-    <a href="https://www.linkedin.com/in/susanna-ricco/">
-    <img class="img-author" src="assets/imgs/authors/cvpr2024/SusannaRicco.jpeg" alt="Susanna Ricco"/></a>
-    <b><br><a href="https://www.linkedin.com/in/susanna-ricco/">Susanna Ricco (She/Her)</a>
-    <br>Research Engineer<br>Google Research</b>
-</figure>
-
-<figure>
-    <a href="https://www.linkedin.com/in/courtney-heldreth-phd-3962b329/">
-    <img class="img-author" src="assets/imgs/authors/cvpr2024/CourtneyHeldreth.png" alt="Courtney Heldreth"/></a>
-    <b><br><a href="https://www.linkedin.com/in/courtney-heldreth-phd-3962b329/">Courtney Heldreth (She/Her)</a>
-    <br>UX Researcher<br>Google Research</b>
-</figure>
-
-<figure>
-    <a href="">
-    <img class="img-author" src="assets/imgs/authors/cvpr2024/BiaoWang.jpeg" alt="Biao Wang"/></a>
-    <b><br><a href="">Biao Wang (He/Him)</a>
-    <br>Associate Product Manager<br>Google Research</b>
-</figure>
-
-<figure>
-    <a href="https://cristiancanton.github.io/">
-    <img class="img-author" src="assets/imgs/authors/cvpr2024/CristianCantonFerrer.jpeg" alt="Cristian Canton Ferrer"/></a>
-    <b><br><a href="https://cristiancanton.github.io/">Cristian Canton Ferrer (He/Him)</a>
-    <br>Head of GenAI Trust & Safety<br>Meta AI</b>
-</figure>
-
-<figure>
-    <a href="https://www.linkedin.com/in/jessholbrook/">
-    <img class="img-author" src="assets/imgs/authors/cvpr2024/JessHolbrook.jpeg" alt="Jess Holbrook"/></a>
-    <b><br><a href="https://www.linkedin.com/in/jessholbrook/">Jess Holbrook (He/Him)</a>
-    <br>Director and Principal Researcher, GenAI<br>Meta AI</b>
-</figure>
 </div>
 
 ---
 ## **Contact** {#contact}
-Contact the organizers at **[responsibledata@googlegroups.com](mailto:responsibledata@googlegroups.com)**
+Contact the organizers at **[rohit@iitmandi.ac.in](mailto:rohit@iitmandi.ac.in)**
 
 ---
-## ~~**Call for Papers**~~ {#call}
+## **Call for Papers** {#call}
 
 We welcome contributions on topics including, but not limited to:
 
