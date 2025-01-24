@@ -91,4 +91,4 @@ We welcome contributions on topics including, but not limited to:
 + Creating frameworks for privacy-preserving, transparent, and ethically aligned LLMs with a focus on conscious intelligence.
 + Investigating the implications of LLMs in redefining intelligence studies, emphasizing consciousness and cognitive synergies.
 
-Submit your extended abstracts through [Easy Chair](https://easychair.org/conferences/?conf=mbcc2025), in [MBCC format(https://iksmha.iitmandi.ac.in/mbcc/2025/#submission).
+Submit your extended abstracts through [Easy Chair](https://easychair.org/conferences/?conf=mbcc2025).  Latex and Overleaf Templates are [here](https://iksmha.iitmandi.ac.in/mbcc/2025/#submission).
