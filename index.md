@@ -38,7 +38,7 @@ We invite submissions of extended abstracts and full papers on the themes of thi
 <div class="container">
     <figure>
         <a href="https://beerys.github.io/">
-        <img class="img-author" src="assets/imgs/authors/cvpr2024/SaraBeery.jpeg" alt="Sara Beery"/></a>
+        <img class="img-author" src="assets/imgs/ganeshramakrishnan.png" alt="Ganesh Ramakrishnan"/></a>
         <b><br><a href="https://sites.google.com/cs.washington.edu/william-agnew/home">Ganesh Ramakrishnan</a>
         <br>Professor<br>Indian Institute of Technology, Bombday</b>
     </figure>
