@@ -7,7 +7,7 @@ description: CLLMS @ MBCC 2025, June 4-7, 2025
 
 
 
-Welcome to our Special Session on "Consciousness and LLMs: A Synergistic Approach to Intelligence"!
+Welcome to our Special Session on "Consciousness and LLMs: A Synergistic Approach to Intelligence", Sponsored by IIT Mandi and BharatGen.
 
 The integration of consciousness studies and Large Language Models (LLMs) offers a unique opportunity to advance our understanding of intelligence. This special session serves as a platform to bridge cutting-edge advancements in AI with the mysteries of human cognition, fostering interdisciplinary collaboration between researchers, technologists, and philosophers.
 
@@ -91,4 +91,6 @@ We welcome contributions on topics including, but not limited to:
 + Creating frameworks for privacy-preserving, transparent, and ethically aligned LLMs with a focus on conscious intelligence.
 + Investigating the implications of LLMs in redefining intelligence studies, emphasizing consciousness and cognitive synergies.
 
-Submit your extended abstracts through [Easy Chair](https://easychair.org/conferences/?conf=mbcc2025).  Latex and Overleaf Templates are [here](https://iksmha.iitmandi.ac.in/mbcc/2025/#submission).
+Submissions are invited for full-length papers based on original work. Full-length papers should follow the Springer template in [latex](https://resource-cms.springernature.com/springer-cms/rest/v1/content/19338728/data/v1) or [Microsoft Word](https://resource-cms.springernature.com/springer-cms/rest/v1/content/19338734/data/v1) and should be limited to 8 to 12 pages. The accepted full-length papers, if accepted, will be published as proceedings with a publisher. 
+
+Submissions are also invited for extended abstracts, which, if accepted, will be invited for poster presentations during the conference and will be published in the web proceedings on the conference webpage. Extended abstracts should be limited to a maximum of 1000 words, including two figures and two tables (references are not counted in the word limit). In both extended abstracts and full-length papers, excluding references and citations, the amount of similarity to published sources should not be more than 15% and similarity to a single source should not be more than 4%.
