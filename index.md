@@ -66,7 +66,21 @@ His keynote will explore the synergy between AI advancements and consciousness s
     <a href="https://candiceschumann.com/">
     <img class="img-author" src="assets/imgs/rohit.jpg" alt="Rohit Saluja"/></a>
     <b><br><a href="https://candiceschumann.com/">Rohit Saluja</a>
-    <br>Assistant Profesoor<br>Indian Institute of Technology</b>
+    <br>Assistant Profesoor<br>Indian Institute of Technology, Mandi</b>
+</figure>
+
+<figure>
+    <a href="https://candiceschumann.com/">
+    <img class="img-author" src="assets/imgs/varun.jpg" alt="Varun Dutt"/></a>
+    <b><br><a href="https://candiceschumann.com/">Varun Dutt</a>
+    <br>Profesoor<br>Indian Institute of Technology, Mandi</b>
+</figure>
+
+<figure>
+    <a href="https://candiceschumann.com/">
+    <img class="img-author" src="assets/imgs/arnav.jpg" alt="Arnav Bhavsar"/></a>
+    <b><br><a href="https://candiceschumann.com/">Arnav Bhavsar</a>
+    <br>Profesoor<br>Indian Institute of Technology, Mandi</b>
 </figure>
 
 
