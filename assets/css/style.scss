@@ -18,6 +18,8 @@ figure {
   }
 
   .container {
+    display: flex-inline;
+    justify-content: space-around;
     width: 105%;
     padding: 5px;
     text-align: center;
