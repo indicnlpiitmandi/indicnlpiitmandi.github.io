@@ -27,6 +27,15 @@ figure {
     -moz-text-align-last: justify;
   }
 
+@media (max-width: 768px) {
+    .container {
+        display: flex;
+        flex-direction: column; /* Stack items vertically */
+        justify-content: space-around;
+        align-items: center;
+    }
+}
+
 .main-content :first-child {
     margin-top: auto;
 }
