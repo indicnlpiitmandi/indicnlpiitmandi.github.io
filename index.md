@@ -102,14 +102,14 @@ His keynote will explore the synergy between AI advancements and consciousness s
     <a href="/">
     <img class="img-author" src="assets/imgs/mani.jpeg" alt=""/></a>
     <b><br><a href="https://candiceschumann.com/">Manikandan Ravikiran</a>
-    <br>Research Scientist<br>R&D Centre, Hitachi India Pvt Ltd</b>
+    <br>Research Scientist<br>R&D Centre, Hitachi India R&D</b>
 </figure>
 
 <figure>
     <a href="">
     <img class="img-author" src="assets/imgs/ananth.jpeg" alt=""/></a>
     <b><br><a href="https://candiceschumann.com/">Ananth Ganesh</a>
-    <br>Deputy GM<br>R&D Centre, Hitachi India Pvt Ltd</b>
+    <br>Deputy GM<br>R&D Centre, Hitachi India R&D</b>
 </figure>
 
 
