@@ -94,7 +94,26 @@ His keynote will explore the synergy between AI advancements and consciousness s
 Contact the organizers at **[rohit@iitmandi.ac.in](mailto:rohit@iitmandi.ac.in)**
 
 
-## **Chairs** {#chairs}
+---
+## **Call for Papers** {#call}
+
+We welcome contributions on topics including, but not limited to:
+
++ Exploring methodologies to integrate consciousness principles into large language models, enhancing self-awareness and reflective reasoning.
++ Incorporating novel techniques, such as RLHF, to align LLMs with conscious cognition and introspection.
++ Investigating the role of curiosity in driving intuitive decisions, emotional understanding, and cultural adaptability in consciousness-enhanced LLMs.
++ Addressing ethical complexities in aligning consciousness-driven LLMs with human values, mitigating biases, and ensuring accountability.
++ Bridging philosophical insights from ancient traditions with modern advancements in LLM-based consciousness studies.
++ Developing datasets and benchmarks to study consciousness-driven cognition, emotional reasoning, and contextual understanding in LLMs.
++ Enabling LLMs to simulate human cognition by incorporating cultural, emotional, and contextual awareness into consciousness-inspired models.
++ Creating frameworks for privacy-preserving, transparent, and ethically aligned LLMs with a focus on conscious intelligence.
++ Investigating the implications of LLMs in redefining intelligence studies, emphasizing consciousness and cognitive synergies.
+
+Submissions are invited for full-length papers based on original work. Full-length papers should follow the Springer template in [latex](https://resource-cms.springernature.com/springer-cms/rest/v1/content/19338728/data/v1) or [Microsoft Word](https://resource-cms.springernature.com/springer-cms/rest/v1/content/19338734/data/v1) and should be limited to 8 to 12 pages. The accepted full-length papers, if accepted, will be published as proceedings with a publisher. 
+
+Submissions are also invited for extended abstracts, which, if accepted, will be invited for poster presentations during the conference and will be published in the web proceedings on the conference webpage. Extended abstracts should be limited to a maximum of 1000 words, including two figures and two tables (references are not counted in the word limit). In both extended abstracts and full-length papers, excluding references and citations, the amount of similarity to published sources should not be more than 15% and similarity to a single source should not be more than 4%.
+
+## **Session Chairs** {#chairs}
 <div class="container">
 
 <figure>
@@ -124,24 +143,5 @@ Contact the organizers at **[rohit@iitmandi.ac.in](mailto:rohit@iitmandi.ac.in)*
 
 </div>
 
----
 
 
----
-## **Call for Papers** {#call}
-
-We welcome contributions on topics including, but not limited to:
-
-+ Exploring methodologies to integrate consciousness principles into large language models, enhancing self-awareness and reflective reasoning.
-+ Incorporating novel techniques, such as RLHF, to align LLMs with conscious cognition and introspection.
-+ Investigating the role of curiosity in driving intuitive decisions, emotional understanding, and cultural adaptability in consciousness-enhanced LLMs.
-+ Addressing ethical complexities in aligning consciousness-driven LLMs with human values, mitigating biases, and ensuring accountability.
-+ Bridging philosophical insights from ancient traditions with modern advancements in LLM-based consciousness studies.
-+ Developing datasets and benchmarks to study consciousness-driven cognition, emotional reasoning, and contextual understanding in LLMs.
-+ Enabling LLMs to simulate human cognition by incorporating cultural, emotional, and contextual awareness into consciousness-inspired models.
-+ Creating frameworks for privacy-preserving, transparent, and ethically aligned LLMs with a focus on conscious intelligence.
-+ Investigating the implications of LLMs in redefining intelligence studies, emphasizing consciousness and cognitive synergies.
-
-Submissions are invited for full-length papers based on original work. Full-length papers should follow the Springer template in [latex](https://resource-cms.springernature.com/springer-cms/rest/v1/content/19338728/data/v1) or [Microsoft Word](https://resource-cms.springernature.com/springer-cms/rest/v1/content/19338734/data/v1) and should be limited to 8 to 12 pages. The accepted full-length papers, if accepted, will be published as proceedings with a publisher. 
-
-Submissions are also invited for extended abstracts, which, if accepted, will be invited for poster presentations during the conference and will be published in the web proceedings on the conference webpage. Extended abstracts should be limited to a maximum of 1000 words, including two figures and two tables (references are not counted in the word limit). In both extended abstracts and full-length papers, excluding references and citations, the amount of similarity to published sources should not be more than 15% and similarity to a single source should not be more than 4%.
