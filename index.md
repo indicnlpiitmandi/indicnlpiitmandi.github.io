@@ -87,6 +87,38 @@ His keynote will explore the synergy between AI advancements and consciousness s
 </div>
 
 ---
+
+## **Chairs** {#chairs}
+<div class="container">
+
+<figure>
+    <a href="/">
+    <img class="img-author" src="assets/imgs/rohit.jpg" alt="Rohit Saluja"/></a>
+    <b><br><a href="https://candiceschumann.com/">Rohit Saluja</a>
+    <br>Assistant Professor<br>Indian Institute of Technology, Mandi</b>
+</figure>
+
+<figure>
+    <a href="/">
+    <img class="img-author" src="assets/imgs/mani.jpg" alt=""/></a>
+    <b><br><a href="https://candiceschumann.com/">Manikandan Ravikiran</a>
+    <br>Research Scientist<br>R&D Centre, Hitachi India Pvt Ltd</b>
+</figure>
+
+<figure>
+    <a href="">
+    <img class="img-author" src="assets/imgs/ananth.jpg" alt=""/></a>
+    <b><br><a href="https://candiceschumann.com/">Ananth Ganesh</a>
+    <br>Deputy GM<br>R&D Centre, Hitachi India Pvt Ltd</b>
+</figure>
+
+
+</div>
+
+---
+
+
+
 ## **Contact** {#contact}
 Contact the organizers at **[rohit@iitmandi.ac.in](mailto:rohit@iitmandi.ac.in)**
 
