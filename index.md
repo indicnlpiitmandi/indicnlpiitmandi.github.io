@@ -96,20 +96,23 @@ His keynote will explore the synergy between AI advancements and consciousness s
     <img class="img-author" src="assets/imgs/rohit.jpg" alt="Rohit Saluja"/></a>
     <b><br><a href="https://candiceschumann.com/">Rohit Saluja</a>
     <br>Assistant Professor<br>Indian Institute of Technology, Mandi</b>
+     <br>Session Chair</b>
 </figure>
 
 <figure>
     <a href="/">
     <img class="img-author" src="assets/imgs/mani.jpeg" alt=""/></a>
     <b><br><a href="https://candiceschumann.com/">Manikandan Ravikiran</a>
-    <br>Research Scientist<br>R&D Centre, Hitachi India R&D</b>
+    <br>Research Scientist<br>R&D Centre, Hitachi India</b>
+    <br>Session Co-Chair</b>
 </figure>
 
 <figure>
     <a href="">
     <img class="img-author" src="assets/imgs/ananth.jpeg" alt=""/></a>
     <b><br><a href="https://candiceschumann.com/">Ananth Ganesh</a>
-    <br>Deputy GM<br>R&D Centre, Hitachi India R&D</b>
+    <br>Deputy GM<br>R&D Centre, Hitachi India</b>
+    <br>Session Co-Chair</b>
 </figure>
 
 
