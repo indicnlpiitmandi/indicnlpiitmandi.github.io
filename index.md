@@ -88,6 +88,12 @@ His keynote will explore the synergy between AI advancements and consciousness s
 
 ---
 
+
+
+## **Contact** {#contact}
+Contact the organizers at **[rohit@iitmandi.ac.in](mailto:rohit@iitmandi.ac.in)**
+
+
 ## **Chairs** {#chairs}
 <div class="container">
 
@@ -120,10 +126,6 @@ His keynote will explore the synergy between AI advancements and consciousness s
 
 ---
 
-
-
-## **Contact** {#contact}
-Contact the organizers at **[rohit@iitmandi.ac.in](mailto:rohit@iitmandi.ac.in)**
 
 ---
 ## **Call for Papers** {#call}
