@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Consciousness and LLMs - A Synergistic Approach to Intelligence
-description: CLLMS @ MBCC 2025, June 4-7, 2025
+description: CLLMS @  <a href="https://iksmha.iitmandi.ac.in/mbcc/2025/"><b>MBCC</b></a> 2025, June 4-7, 2025
 ---
 
 
