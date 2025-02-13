@@ -7,7 +7,7 @@ description: CLLMS @ MBCC 2025, June 4-7, 2025
 
 
 
-Welcome to our Special Session on "Consciousness and LLMs: A Synergistic Approach to Intelligence", Sponsored by IIT Mandi and BharatGen.
+Welcome to our Special Session on "Consciousness and LLMs: A Synergistic Approach to Intelligence", organized by IIT Mandi and BharatGen.
 
 The integration of consciousness studies and Large Language Models (LLMs) offers a unique opportunity to advance our understanding of intelligence. This special session serves as a platform to bridge cutting-edge advancements in AI with the mysteries of human cognition, fostering interdisciplinary collaboration between researchers, technologists, and philosophers.
 
