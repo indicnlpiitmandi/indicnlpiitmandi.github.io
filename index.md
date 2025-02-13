@@ -7,7 +7,7 @@ description: CLLMS @  <a href="https://iksmha.iitmandi.ac.in/mbcc/2025/"><b>MBCC
 
 
 
-Welcome to our Special Session on "Consciousness and LLMs: A Synergistic Approach to Intelligence", organized by IIT Mandi and BharatGen.
+Welcome to our Special Session on "Consciousness and LLMs: A Synergistic Approach to Intelligence", organized by  <a href="https://iksmha.iitmandi.ac.in/mbcc/2025/"><b>IIT Mandi</b></a> and BharatGen.
 
 The integration of consciousness studies and Large Language Models (LLMs) offers a unique opportunity to advance our understanding of intelligence. This special session serves as a platform to bridge cutting-edge advancements in AI with the mysteries of human cognition, fostering interdisciplinary collaboration between researchers, technologists, and philosophers.
 
@@ -45,7 +45,7 @@ We invite submissions of extended abstracts and full papers on the themes of thi
         <a href="https://beerys.github.io/">
         <img class="img-author" src="assets/imgs/ganeshramakrishnan.png" alt="Ganesh Ramakrishnan"/></a>
         <b><br><a href="https://sites.google.com/cs.washington.edu/william-agnew/home">Ganesh Ramakrishnan</a>
-        <br>Professor<br>Indian Institute of Technology, Bombday</b>
+        <br>Professor<br>Indian Institute of Technology, Bomday</b>
     </figure>
 </div>
 
@@ -92,6 +92,9 @@ His keynote will explore the synergy between AI advancements and consciousness s
 
 ## **Contact** {#contact}
 Contact the organizers at **[rohit@iitmandi.ac.in](mailto:rohit@iitmandi.ac.in)**
+
+## **Registration** {#contact}
+**[Fee and Other Details](https://iksmha.iitmandi.ac.in/mbcc/2025/fees.php)**
 
 
 ---
