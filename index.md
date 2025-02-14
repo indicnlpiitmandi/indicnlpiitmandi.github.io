@@ -131,7 +131,7 @@ See <a href="https://iksmha.iitmandi.ac.in/mbcc/2025/session_details.php?id=rohi
 
 <figure>
     <a href="/">
-    <img class="img-author" src="assets/imgs/mani.jpeg" alt=""/></a>
+    <img class="img-author" src="assets/imgs/mani.jpeg" alt="Manikandan Ravikiran"/></a>
     <b><br><a href="">Manikandan Ravikiran</a>
     <br>Research Scientist<br>R&D Centre, Hitachi India</b>
     <br>Session Co-Chair
