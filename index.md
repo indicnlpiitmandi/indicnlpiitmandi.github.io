@@ -7,7 +7,7 @@ description: CLLMS @  <a href="https://iksmha.iitmandi.ac.in/mbcc/2025/"><b>MBCC
 
 
 
-Welcome to our Special Session on "Consciousness and LLMs: A Synergistic Approach to Intelligence", organized by  IIT MANDI(<a href="https://iksmha.iitmandi.ac.in/mbcc/2025/"><b>MBCC</b></a>) and BharatGen.
+Welcome to our Special Session on "Consciousness and LLMs: A Synergistic Approach to Intelligence", organized by  IIT Mandi(<a href="https://iksmha.iitmandi.ac.in/mbcc/2025/"><b>MBCC</b></a>) and BharatGen.
 
 The integration of consciousness studies and Large Language Models (LLMs) offers a unique opportunity to advance our understanding of intelligence. This special session serves as a platform to bridge cutting-edge advancements in AI with the mysteries of human cognition, fostering interdisciplinary collaboration between researchers, technologists, and philosophers.
 
@@ -116,7 +116,7 @@ Submissions are invited for full-length papers based on original work. Full-leng
 
 Submissions are also invited for extended abstracts, which, if accepted, will be invited for poster presentations during the conference and will be published in the web proceedings on the conference webpage. Extended abstracts should be limited to a maximum of 1000 words, including two figures and two tables (references are not counted in the word limit). In both extended abstracts and full-length papers, excluding references and citations, the amount of similarity to published sources should not be more than 15% and similarity to a single source should not be more than 4%.
 
-See <a href="https://iksmha.iitmandi.ac.in/mbcc/2025/session_details.php?id=rohit">here</a> for more details on special session 
+See <a href="https://iksmha.iitmandi.ac.in/mbcc/2025/session_details.php?id=rohit">here</a> for more details on submission. 
 
 ## **Session Chairs** {#chairs}
 <div class="container">
