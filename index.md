@@ -63,23 +63,23 @@ His keynote will explore the synergy between AI advancements and consciousness s
 <div class="container">
 
 <figure>
-    <a href="https://candiceschumann.com/">
+    <a href="">
     <img class="img-author" src="assets/imgs/rohit.jpg" alt="Rohit Saluja"/></a>
-    <b><br><a href="https://candiceschumann.com/">Rohit Saluja</a>
+    <b><br><a href="/">Rohit Saluja</a>
     <br>Assistant Professor<br>Indian Institute of Technology, Mandi</b>
 </figure>
 
 <figure>
-    <a href="https://candiceschumann.com/">
+    <a href="">
     <img class="img-author" src="assets/imgs/varun.jpg" alt="Varun Dutt"/></a>
-    <b><br><a href="https://candiceschumann.com/">Varun Dutt</a>
+    <b><br><a href="">Varun Dutt</a>
     <br>Professor<br>Indian Institute of Technology, Mandi</b>
 </figure>
 
 <figure>
-    <a href="https://candiceschumann.com/">
+    <a href="">
     <img class="img-author" src="assets/imgs/arnav.jpg" alt="Arnav Bhavsar"/></a>
-    <b><br><a href="https://candiceschumann.com/">Arnav Bhavsar</a>
+    <b><br><a href="">Arnav Bhavsar</a>
     <br>Professor<br>Indian Institute of Technology, Mandi</b>
 </figure>
 
@@ -93,7 +93,7 @@ His keynote will explore the synergy between AI advancements and consciousness s
 ## **Contact** {#contact}
 Contact the organizers at **[rohit@iitmandi.ac.in](mailto:rohit@iitmandi.ac.in)**
 
-## **Registration** {#contact}
+## **Registration** {#register}
 **[Fee and Other Details](https://iksmha.iitmandi.ac.in/mbcc/2025/fees.php)**
 
 
@@ -116,6 +116,8 @@ Submissions are invited for full-length papers based on original work. Full-leng
 
 Submissions are also invited for extended abstracts, which, if accepted, will be invited for poster presentations during the conference and will be published in the web proceedings on the conference webpage. Extended abstracts should be limited to a maximum of 1000 words, including two figures and two tables (references are not counted in the word limit). In both extended abstracts and full-length papers, excluding references and citations, the amount of similarity to published sources should not be more than 15% and similarity to a single source should not be more than 4%.
 
+See <a href="https://iksmha.iitmandi.ac.in/mbcc/2025/session_details.php?id=rohit">here</a> for more details on special session 
+
 ## **Session Chairs** {#chairs}
 <div class="container">
 
@@ -130,19 +132,10 @@ Submissions are also invited for extended abstracts, which, if accepted, will be
 <figure>
     <a href="/">
     <img class="img-author" src="assets/imgs/mani.jpeg" alt=""/></a>
-    <b><br><a href="https://candiceschumann.com/">Manikandan Ravikiran</a>
+    <b><br><a href="">Manikandan Ravikiran</a>
     <br>Research Scientist<br>R&D Centre, Hitachi India</b>
     <br>Session Co-Chair
 </figure>
-
-<figure>
-    <a href="">
-    <img class="img-author" src="assets/imgs/ananth.jpeg" alt=""/></a>
-    <b><br><a href="https://candiceschumann.com/">Ananth Ganesh</a>
-    <br>Deputy GM<br>R&D Centre, Hitachi India</b>
-    <br>Session Co-Chair
-</figure>
-
 
 </div>
 
