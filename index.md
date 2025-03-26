@@ -31,8 +31,8 @@ We invite submissions of extended abstracts and full papers on the themes of thi
 ---
 ## **Important Dates** {#dates}
 
-| Submission Deadline  | ~~10 March~~ **March 25, 2025** |
-| Final Decisions  | **March 31, 2025** |
+| Submission Deadline  | ~~10 March~~ **March 30, 2025** |
+| Final Decisions  | **April 05, 2025** |
 | Camera Ready  | **April 15, 2025** |
 | Workshop Date | **June 4-7, 2025** | 
 
