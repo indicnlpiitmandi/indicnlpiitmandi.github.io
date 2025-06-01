@@ -38,6 +38,17 @@ We invite submissions of extended abstracts and full papers on the themes of thi
 
 ---
 
+## Accepted Papers
+
+| Paper ID | Title | Authors |
+|----------|-------|---------|
+| 252 | Can LLMs Guess Like Humans? Evaluating Inferential Reasoning Under Ambiguity | Radhika Grover (IIT Mandi) |
+| 253 | EAGER: An Exploratory Analysis of LLMs in GuEssing bilingual woRd translation | Vriti Sharma (IIT Mandi) |
+| 254 | CLEAR - Comparing LLM and Empirical Approaches to Reworking Proverbs | Gyan Singh (Thapar University) |
+| 255 | Assessing Metacognitive Ability of LLMs using a Language-unaware Sandhi-splitting Paradigm | Nandan Paralikar (IIT Bombay) |
+| 256 | Can Large Language Models Truly Understand Human Language Learning Challenges? | Tarun Sharma (IIT Mandi) |
+| 259 | FOCUS - Facilitating low-resolution OCR Confirmation with Unsupervised Systems | Shikhar Dubey (IIT Mandi) |
+
 
 ## **Keynote Speakers** {#speakers}
 <div class="container">
