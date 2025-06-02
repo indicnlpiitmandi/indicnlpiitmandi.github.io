@@ -52,20 +52,31 @@ We invite submissions of extended abstracts and full papers on the themes of thi
 
 ## **Keynote Speakers** {#speakers}
 <div class="container">
-    <figure>
-        <a href="https://beerys.github.io/">
-        <img class="img-author" src="assets/imgs/ganeshramakrishnan.png" alt="Ganesh Ramakrishnan"/></a>
-        <b><br><a href="https://sites.google.com/cs.washington.edu/william-agnew/home">Ganesh Ramakrishnan</a>
-        <br>Professor<br>Indian Institute of Technology, Bomday</b>
-    </figure>
+    <figure>
+        <a href="https://beerys.github.io/">
+            <img class="img-author" src="assets/imgs/ganeshramakrishnan.png" alt="Ganesh Ramakrishnan"/>
+        </a>
+        <!-- Badge -->
+        <div style="background-color: #007BFF; color: white; padding: 4px 10px; border-radius: 12px; font-size: 0.85em; display: inline-block; margin-top: 10px;">
+            🔍 Keynote Topic: New Frontiers for Synergy Between LLMs and Humans
+        </div>
+        <br><br>
+        <b>
+            <a href="https://sites.google.com/cs.washington.edu/william-agnew/home">Ganesh Ramakrishnan</a><br>
+            Professor<br>
+            Indian Institute of Technology, Bombay
+        </b>
+    </figure>
 </div>
 
 <div class="bio-text">
-<a href="https://beerys.github.io/"><b>Dr. Ganesh Ramakrishnan</b></a> is a leading researcher in Artificial Intelligence (AI), Machine Learning, and Natural Language Processing (NLP), will deliver a keynote at MBCC 2025. Known for his pioneering work on BharatGen, the first government-funded multimodal LLM project for Indian languages, and Udaan, an innovative translation ecosystem, Dr. Ramakrishnan bridges AI with cognitive science to address real-world challenges.
-His keynote will explore the synergy between AI advancements and consciousness studies, offering transformative insights into how technology can deepen our understanding of human cognition and enhance cognitive wellness.
+    <a href="https://beerys.github.io/"><b>Dr. Ganesh Ramakrishnan</b></a> is a leading researcher in Artificial Intelligence (AI), Machine Learning, and Natural Language Processing (NLP), and will deliver a keynote at MBCC 2025. Known for his pioneering work on <i>BharatGen</i>, the first government-funded multimodal LLM project for Indian languages, and <i>Udaan</i>, an innovative translation ecosystem, Dr. Ramakrishnan bridges AI with cognitive science to address real-world challenges.
 
+    <br><br>
 
-<br><br>
+    His keynote will explore the synergy between AI advancements and consciousness studies, offering transformative insights into how technology can deepen our understanding of human cognition and enhance cognitive wellness.
+</div>
+
 
 
 </div>
