@@ -78,9 +78,6 @@ We invite submissions of extended abstracts and full papers on the themes of thi
 </div>
 
 
-
-</div>
-
 ## **Organizers** {#organizers}
 <div class="container">
 
