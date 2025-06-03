@@ -68,7 +68,7 @@ We invite submissions of extended abstracts and full papers on the themes of thi
         </a>
         <!-- Badge -->
         <div style="background-color: #007BFF; color: white; padding: 4px 10px; border-radius: 12px; font-size: 0.85em; display: inline-block; margin-top: 10px;">
-            🔍 Keynote Topic: New Frontiers for Synergy Between LLMs and Humans
+            🔍  Topic: New Frontiers for Synergy Between LLMs and Humans
         </div>
         <br><br>
         <b>
