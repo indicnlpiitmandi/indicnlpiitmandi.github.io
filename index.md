@@ -41,8 +41,8 @@ We invite submissions of extended abstracts and full papers on the themes of thi
 ## Keynote Speaker
 
 | Time       | Topic   | About Speaker                      |
-| -----------------   |------------------------------| | ----------|
-| 2:00–2:40 PM || "New Frontiers for Synergy Between LLMs and Humans"* | Prof. Ganesh Ramakrishnan (IIT Bombay- Lead PI, BharatGen)  |
+| -----------------   |------------------------------| -------- ----------|
+| 2:00–2:40 PM  | "New Frontiers for Synergy Between LLMs and Humans"* | Prof. Ganesh Ramakrishnan (IIT Bombay- Lead PI, BharatGen)  |
 
 
 ---
