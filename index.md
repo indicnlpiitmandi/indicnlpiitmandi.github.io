@@ -38,16 +38,26 @@ We invite submissions of extended abstracts and full papers on the themes of thi
 
 ---
 
-## Accepted Papers
+## Keynote Speaker
 
-| Paper ID | Title | Authors |
-|----------|-------|---------|
-| 252 | Can LLMs Guess Like Humans? Evaluating Inferential Reasoning Under Ambiguity | Radhika Grover (IIT Mandi) |
-| 253 | EAGER: An Exploratory Analysis of LLMs in GuEssing bilingual woRd translation | Vriti Sharma (IIT Mandi) |
-| 254 | CLEAR - Comparing LLM and Empirical Approaches to Reworking Proverbs | Gyan Singh (Thapar University) |
-| 255 | Assessing Metacognitive Ability of LLMs using a Language-unaware Sandhi-splitting Paradigm | Nandan Paralikar (IIT Bombay) |
-| 256 | Can Large Language Models Truly Understand Human Language Learning Challenges? | Tarun Sharma (IIT Mandi) |
-| 259 | FOCUS - Facilitating low-resolution OCR Confirmation with Unsupervised Systems | Shikhar Dubey (IIT Mandi) |
+| Time       | Session                      |
+|------------|------------------------------|
+| 2:00–2:40 PM | **Special Session**: Keynote by Prof. Ganesh Ramakrishnan (IIT Bombay- Lead PI, BharatGen)  
+*Talk: "New Frontiers for Synergy Between LLMs and Humans"*
+
+---
+
+## Paper Presentations
+
+| Time         | Title |
+|--------------|-------|
+| 2:50–3:05 PM | **Assessing Metacognitive Ability of LLMs using a Language-unaware Sandhi-splitting Paradigm** |
+| 3:05–3:20 PM | **EAGER: An Exploratory Analysis of LLMs in GuEssing bilingual woRd translation** |
+| 3:20–3:35 PM | **CLEAR - Comparing LLM and Empirical Approaches to Reworking Proverbs** |
+| 3:35–3:50 PM | **Can LLMs Guess Like Humans? Evaluating Inferential Reasoning Under Ambiguity**  |
+
+| 4:00–4:15 PM | **Can Large Language Models Truly Understand Human Language Learning Challenges?** |
+| 4:15–4:30 PM | **FOCUS - Facilitating low-resolution OCR Confirmation with Unsupervised Systems** |
 
 
 ## **Keynote Speakers** {#speakers}
